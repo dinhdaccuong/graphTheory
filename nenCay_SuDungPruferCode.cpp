@@ -2,7 +2,7 @@
 #include <set>
 using namespace std;
 #define MAX 100
-
+/*Dinh Dac Cuong CNTT 1.1 - K60 Dai hoc Bach Khoa Ha Noi*/
 void compressTree(int tree[], int n, int pruferCode[]){			// ham thuc hien nen cay
 	int degree[MAX];	// mang luu tru bac cua moi nhan degree[1] = 2 <-> nhan 1 co bac 2
 
